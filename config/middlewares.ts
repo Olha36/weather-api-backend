@@ -6,7 +6,7 @@ module.exports = [
     config: {
       origin: [
         "https://tasteful-action-d95dc6c2da.strapiapp.com",
-        "https://weather-forecast-swart-iota.vercel.app/",
+        "https://weather-forecast-swart-iota.vercel.app",
         "http://localhost:3000",
       ],
       methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS", "HEAD"],

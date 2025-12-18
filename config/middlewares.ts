@@ -5,7 +5,6 @@ module.exports = [
     name: "strapi::cors",
     config: {
       origin: [
-        "https://tasteful-action-d95dc6c2da.strapiapp.com",
         "https://weather-forecast-swart-iota.vercel.app",
         "http://localhost:3000",
       ],
